@@ -1,0 +1,4 @@
+SimpleITK
+numpy
+pydicom==2.4.4
+torch>=2.1.2
